@@ -1,0 +1,70 @@
+
+body{
+    background-color:	darkgrey;
+    text-align: center;
+    min-width:auto;
+    background-size: cover;
+    font-family: ‘Times New Roman’, Times, serif;
+    font-size: 19px;
+}
+#title h1{
+    letter-spacing: 15px;
+    color: lightslategrey;
+}
+#title h2{
+    color:  lightslategray;
+}
+#main{
+    background-color:rgba(2, 8, 1, 0.514);
+    margin:0px auto;
+    padding: 15px;
+    text-align: center;
+    width:65%;
+  
+}
+#image{
+    max-width: 100%; 
+
+-webkit-filter: drop-shadow(15px 15px 15px #222);
+ filter: drop-shadow(15px 15px 15px #222);
+      
+       
+  }
+  img{
+      max-width: 100%;
+      height: auto;
+      width: auto;
+  }
+  h3{
+      color:#add8e6;
+  }
+  #img_caption{
+      color:black;
+  }
+
+#img-div{
+background-color:whitesmoke;
+padding: 40px;
+}
+#tribute-info{
+    display: inline-block;
+    text-align: left;
+}
+#c{
+    float:right;
+    width: 250px;
+}
+#b{
+    float: left;
+    width: 250px;
+}
+#a{
+    float:right;
+    width: 150px;
+}
+#tt{
+    display: inline-block;
+}
+
+
+
